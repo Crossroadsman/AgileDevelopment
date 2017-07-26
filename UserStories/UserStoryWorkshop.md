@@ -40,9 +40,18 @@ Running A User Story Workshop
 
 #### Story Writing ####
 
+- Persona Writing
+  - Brainstorming initial set of user personas
+  - Organize set of user personas
+  - Consolidate the set of user personas
+  - Refine the set of user personas
+  - The above steps will yield a refined set of user personas
+
 - Story Writing
   - Use index cards or stickies
-  - After everyone has written their stories, have the participants group the stories
+  - Choose a user persona to work through
+  - Write as many cards as possible for the persona
+  - After everyone has written their stories, have the participants group the stories (into themes and epics)
   - Use story mapping
 
 #### Review ####
@@ -51,6 +60,9 @@ Running A User Story Workshop
   - say the stories out loud
   - retain only the stories needed
   - sometimes new stories will emerge and others may be discarded
+  - Have conversation about each story
+  - Generate reliable set of acceptance criteria (confirmations) for the stories
+  - Prioritize for iteration
 
 - Prioritisation of User Stories: Generating the Release Plan
   - Use MoSCoW prioritisation to identify 'must have' user stories from the backlog
@@ -70,3 +82,4 @@ Running A User Story Workshop
 - Story priorities should be revisited frequently. Where time and/or costs are fixed, low priority stories may fall out of scope.
 - Product owners, customer proxies or similar representatives for each identified user role need to be available to have detailed 
 conversations with developers to clarify specific stories where required.
+ 
