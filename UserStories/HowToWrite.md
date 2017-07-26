@@ -24,7 +24,7 @@ User stories have three parts (CCC mnemonic):
 
 - the user story itself (the *card*);
 - the *conversation*;
-- the _ (the *conversation*).
+- the acceptance criteria (the *conversation*).
 
 The conversation is the most important part.
 
