@@ -33,3 +33,12 @@ The conversation includes:
 - with customers/stakeholders (to outline wants/needs);
 - with team to articulate the need (the essence of successful project leadership is to *clearly communicate a vision*, in both big and small senses)
 
+Tip 6: The INVEST model
+-----------------------
+
+**I**ndependent  
+**N**egotiable  
+**V**aluable  
+**E**stimable  
+**S**mall  
+**T**estable  
