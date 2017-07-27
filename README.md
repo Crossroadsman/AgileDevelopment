@@ -6,7 +6,7 @@ Index
 
 [IntroToAgile.md][L01] - Agile basics
 
-[UserStories][L02] - Documents about User Stories
+[UserStories][L02] - Documents about User Stories  
 [Iterations][L03] - Documents about Iterations (sprints)
 
 
