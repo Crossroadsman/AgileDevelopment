@@ -1,6 +1,15 @@
 Running A User Story Workshop
 =============================
 
+High-level User Story Process
+-----------------------------
+1. Establish product vision statement;
+2. Identify user roles/personas;
+3. User stories (CCC);
+4. Story Map;
+5. Determine Sprint.
+
+
 1: Before the Event
 -------------------
 
