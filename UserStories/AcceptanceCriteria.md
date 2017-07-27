@@ -22,6 +22,16 @@ Benefits of Acceptance Criteria
 Example of a User Story With Acceptance Criteria
 ------------------------------------------------
 
-"AS A bank customer I WANT an email sent to my registered email address when my account goes into overdraft so that I know to fund my 
-account."
+### Story ###
+AS A bank customer 
+I WANT an email sent to my registered email address when my account goes into overdraft 
+SO THAT I know to fund my account.
 
+### Acceptance Criteria ###
+
+Input                 | Process                   | Output
+----------------------|---------------------------|-------------------------------------------------------------------------------
+valid email address   | email validation          | message sent to email address
+invalid email address | email validation          | flag profile as incomplete, kickoff snail mail message
+valid email address   | overdraft warning message | message content matches specs provided by customer relations
+valid email address   | overdraft warning message | message contains clickable link that allows user to navigate to online banking
