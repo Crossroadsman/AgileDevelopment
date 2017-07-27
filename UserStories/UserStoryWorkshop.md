@@ -34,6 +34,7 @@ Running A User Story Workshop
   - Optional information
   - Acceptance criteria
   - Clarity: the benefits of keeping it simple
+  - Epic: explain what it is and give example of splitting an epic into stories
 
 - Explanation: Organisation of User Story
   - Explain how backlogs work
