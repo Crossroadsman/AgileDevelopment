@@ -26,6 +26,14 @@ The discussion among developers and stakeholders, prompted by the *story*, that 
 that the *story* represents. Used to generate ideas for producing the *confirmations* / *acceptance criteria*
 
 
+Customer Proxy
+--------------
+
+When the customer is unavailable, the proxy helps to ensure the team works on stories that deliver the highest value.
+
+The proxy needs to understand business requirements and their relative priority.
+
+
 Epic
 ----
 
@@ -51,6 +59,16 @@ attacks.
 ```
 
 Notice that the above *stories* depend on eachother for any business value to be realized.
+
+
+Product Owner
+-------------
+
+Formally represents the interests of all stakeholders.
+
+Defines the features of the product and prioritizes the backlog according to the value each *story* delivers.
+
+Also, typically responsible for the profitability of the product and accepting or rejecting work results.
 
 
 Story
