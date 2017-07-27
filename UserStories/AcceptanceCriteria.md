@@ -48,7 +48,7 @@ valid email address   | overdraft warning message | message contains clickable l
 Creating Acceptance Criteria
 ----------------------------
 
-Acceptance criteria comprise three parts: *input*, *process*, and *outcome*.
+Acceptance criteria typically comprise three parts: *input*, *process*, and *outcome*.
 
 Inputs describe the user's contribution to the system's process.
 
