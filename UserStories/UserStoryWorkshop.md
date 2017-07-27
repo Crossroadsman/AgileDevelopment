@@ -14,6 +14,7 @@ High-level User Story Process
 -------------------
 
 - Ensure the overall objectives of the project or change are clear; understand what will change and why (vision).
+- It is ok if the vision is vague at first, perhaps described in marketing terms rather than system terms. It will become clearer as the project progresses.
 - Know your stakeholders. They will have differing needs and requirements, and some may not understand how changes will impact them.
   Remember: suppliers, developers, and product/process owners are stakeholders.
 - Ensure the participants for the workshop cover all stakeholder groups.
