@@ -28,3 +28,18 @@ One way to derive acceptance criteria from the story is to rework each phrase el
 - a **GIVEN** phrase for the **AS A** phrase
 - a **WHEN** phrase for the **I WANT** phrase
 - a **THEN** phrase for the **SO THAT** phrase
+
+
+Example: User Device Switch With Sync
+-------------------------------------
+
+AS A live streaming sports watcher
+I WANT to start watching a video on one device then be able to switch to another device while preserving my play position
+SO THAT I don't miss a moment of the big game
+
+#### Acceptance Criteria ####
+
+- user starts a new app session (while an existing app session was active (with a stream) within the last 60 minute) and system prompts if user wants to continue where left off, user selects yes. App should take user to previously watched stream. If user selects no, app should take user to main menu.
+- user starts a new app session (last live stream played has now finished). System should not attempt to resume playback and should go straight to main menu.
+- user selects a stream that is unavailable, system should present error message then take user to main screen.
+- System should update stream position information at least every five seconds.
