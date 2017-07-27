@@ -9,14 +9,14 @@ Index
 2. [User Stories][L02] - Documents about User Stories:
 
     1. [Definitions][L02.01] - Definitions of terms
-    2. [Structure And Examples][L2.02] - Example *User Stories*
-    3. [How To Write a User Story][L2.03] - Explanation of how to write a *Story*
-    4. [User Personas][L2.04] - Discussion of *user personas*, which underly the *Stories*
-    5. [User Story Workshops][L2.05] - Discussion of what is a *User Story Workshop*, and how to run one
+    2. [Structure And Examples][L02.02] - Example *User Stories*
+    3. [How To Write a User Story][L02.03] - Explanation of how to write a *Story*
+    4. [User Personas][L02.04] - Discussion of *user personas*, which underly the *Stories*
+    5. [User Story Workshops][L02.05] - Discussion of what is a *User Story Workshop*, and how to run one
     6. [Acceptance Criteria][L02.06] - Description of *Acceptance Criteria*
-    7. [User Story Map][L2.07] - Explanation of *User Story Maps*
-    8. [Prioritisation][L2.08] - How to Prioritise *Stories*
-    9. [How To Estimate][L2.09] - How to estimate the workload associated with a *story*
+    7. [User Story Map][L02.07] - Explanation of *User Story Maps*
+    8. [Prioritisation][L02.08] - How to Prioritise *Stories*
+    9. [How To Estimate][L02.09] - How to estimate the workload associated with a *story*
 
 
 3. [Iterations][L03] - Documents about Iterations (sprints):
