@@ -23,3 +23,12 @@ Rule of Thumb: 1, 2, 3
 - 1 user story should typically take
 - 2 person team
 - 3 days or less
+
+Estimating the Project
+----------------------
+
+The to-do list on an agile project is called the *master story list*. It contains all the user stories, which represent all the features the customer values in the project.
+
+The rate at which we convert user stories into working software is called the *velocity* (in points per iteration). This measure is used for determining the team's productivity and estimating dates of completion.
+
+To estimate delivery dates, take the total estimated effort (in points) of the project, divide by estimated velocity, and that gives us a guide to how many iterations the project will take.
