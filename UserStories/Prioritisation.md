@@ -6,7 +6,7 @@ User Story Prioritisation
 - Option 3: Prioritise by project risk
 
 
-The MoSCoW Model
+The MuSCoW Model
 ----------------
 
 A model for prioritising user stories:
